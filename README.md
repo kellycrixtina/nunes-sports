@@ -5,4 +5,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### <i> Obs.: Deu trabalho fazer, consertar, atualizar e entender CRUD, mas consegui! </i>
+#### Ainda pretendo melhorar a parte visual
+
+<i> Obs.: Deu trabalho fazer, consertar, atualizar e entender CRUD, mas consegui! </i>
